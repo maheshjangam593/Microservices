@@ -1,0 +1,6 @@
+insert into user values(1,sysdate(),'mahesh')
+insert into user values(2,sysdate(),'mahi')
+insert into user values(3,sysdate(),'raj')
+insert into post values(10,'hi',1)
+insert into post values(11,'hey',1)
+insert into post values(12,'hello',2)
